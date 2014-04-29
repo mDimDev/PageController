@@ -1,0 +1,21 @@
+{
+    "name":             "mDimDev/PageController",
+    "description":      "A simple abstract class for page control",
+    "keywords":         ["page controler"],
+    "license":          "MIT",
+    "authors": [
+        {
+            "name":         "Matt Shanks",
+            "email":        "matt@dimensiondevelopment.ca",
+            "homepage":     "www.dimensiondevelopment.ca",
+            "role":         "Nightscream"
+        }
+    ],
+
+    "autoload": {
+        "classmap": [
+            "src/mDimDev/PageController"
+        ]
+    }
+    
+}
