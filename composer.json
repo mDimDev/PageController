@@ -14,7 +14,7 @@
 
     "autoload": {
         "classmap": [
-            "src/mDimDev/PageController"
+            "src/"
         ]
     }
     
